@@ -1,0 +1,143 @@
+
+@media screen and (min-width: 300px) and (max-width: 763px) {
+
+.mm {
+  padding: 0px;
+}
+.sec-2 img{
+  margin: 0 auto;
+height: none;
+min-width: 82px;
+}
+  .sec-1 li img{
+    max-height:  20px;
+    padding-right: 15px;
+  }
+  .sec-3 img{
+    max-height: 20px;
+  }
+  .sec-1 li span{
+      font-size: 20px;
+      color:#024772;
+  }
+
+  	.menu-wsi{
+  		width:50%;
+  		height:100%;
+      top: 93px;
+  		left:-100%;
+  		margin:0;
+  		position: fixed;
+      background:#6b5e72;
+      color: white;
+      z-index: 10;
+      padding-top: 50px;
+          }
+
+  .menu2-nosotros ul li{
+      list-style: none;
+      font-size: 13px;
+      padding-top: 20px;
+  }
+  .menu2-nosotros{
+      margin-top: 1em;
+  }
+  .menu2-nosotros ul li span{
+      padding-left: 30%
+  }
+  .menu2-nosotros .espacio-nosotros-2{
+      padding-left: 15%;
+      margin-top: 0.5em;
+  }
+  .xxx{
+      padding-bottom: 20px;
+  }
+  ul.menu-mobil img {
+      padding-right: 30px;
+  }
+
+
+}
+@media screen and (min-width: 764px) and (max-width: 1023px) {
+
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1250px) {
+  .logo{
+      max-width: 130px;
+      margin: 0 auto;
+      padding-bottom: 0px;
+      padding-top: 10px;
+  }
+  .envio img {
+    max-width: 120px;
+}
+.img-3 img {
+    max-width: 18px;
+}
+.redes img{
+  max-width: 20px;
+}
+.img-3 span{
+  font-size: 11px;
+}
+.img-3 .col-lg-4{
+      padding-right: 0px;
+}
+.login{
+  padding-top: 50px;
+}
+
+}
+@media screen and (min-width: 1251px) and (max-width: 1600px) {
+  .logo{
+      max-width: 130px;
+      margin: 0 auto;
+      padding-bottom: 0px;
+      padding-top: 10px;
+  }
+  .envio img {
+    max-width: 120px;
+}
+.img-3 img {
+    max-width: 18px;
+}
+.redes img{
+  max-width: 20px;
+}
+.img-3 span{
+  font-size: 9px;
+}
+.img-3 .col-lg-4{
+      padding-right: 0px;
+}
+.login{
+  padding-top: 50px;
+}
+
+}
+
+@media screen and (min-width: 1601px) {
+
+}
+
+
+
+
+
+
+
+
+/*Especial*/
+
+
+@media screen and (min-width: 1200px) and (max-width: 1353px) {
+  .img-3 .col-lg-2{
+      width: 50%;
+  }
+  .img-3 .col-lg-6{
+    width: 100%;
+    text-align: center;
+  }
+
+}

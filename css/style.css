@@ -1,0 +1,178 @@
+body {
+margin: 0;
+background: #000;
+}
+*{
+  font-family: 'Poppins', sans-serif;
+}
+.gratis{
+  font-family: font127173;
+  font-size: 28px;
+}
+a:hover, a:focus {
+    color: white;
+    text-decoration: none;
+}
+a{
+    color: white;
+}
+.active{
+    color: red;
+}
+video {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  height: auto;
+  z-index: -100;
+  transform: translateX(-50%) translateY(-50%);
+background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;
+background-size: cover;
+transition: 1s opacity;
+}
+.stopfade {
+ opacity: .5;
+}
+.login{
+  padding-top: 50px;
+}
+
+.menu{
+    background: #6b5e72;
+    height:100%;
+    position: fixed;
+    color: white;
+}
+.menu-2 ul {
+    list-style: none;
+    padding: 0px;
+}
+.menu-2 li{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.redes ul {
+    list-style: none;
+}
+.redes li{
+     display: inline;
+    padding-left: 40px;
+}
+.abajo{
+    bottom: 0;
+    position: absolute;
+    width: 90%;
+}
+.envio img{
+    margin: 0 auto;
+    max-width: 180px;
+}
+.logo{
+    max-width: 190px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
+.tmorado{
+  color: #6b5e72;
+}
+.welcome{
+  background: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Menu 2 Pruebas*/
+header{
+  background: #cad7d7;
+}
+nav{
+  background: #6b5e72;
+  padding-top: 8px;
+  padding-bottom: 10px;
+}
+.sec-1 li{
+    display: inline;
+}
+.sec-1{
+  margin-top: 5px;
+}
+.sec-3{
+  margin-top: 5px;
+}
+.sec-1 li img{
+  max-height:  20px;
+  padding-right: 35px;
+}
+.sec-2 img{
+  margin: 0 auto;
+  height: 35px;
+}
+.sec-3 img{
+  max-height: 20px;
+}
+.sec-1 li span{
+    font-size: 20px;
+    color:#024772;
+}
+
+	.menu-wsi{
+		width:50%;
+		height:100%;
+    top: 93px;
+		left:-100%;
+		margin:0;
+		position: fixed;
+    background:#6b5e72;
+    color: white;
+    z-index: 10;
+    padding-top: 25px;
+        }
+
+.menu2-nosotros ul li{
+    list-style: none;
+    font-size: 13px;
+    padding-top: 20px;
+}
+.menu2-nosotros{
+    margin-top: 1em;
+}
+.menu2-nosotros ul li span{
+    padding-left: 30%
+}
+.menu2-nosotros .espacio-nosotros-2{
+    padding-left: 15%;
+    margin-top: 0.5em;
+}
+.xxx{
+    padding-bottom: 20px;
+}
+ul.menu-mobil img {
+    padding-right: 30px;
+}
