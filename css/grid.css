@@ -334,3 +334,9 @@ min-width: 82px;
     overflow-y:hidden;
   }
 }
+
+@media screen and (min-width: 1350px) and (max-width: 1500px) {
+  .lg-2 video{
+      width: 120%;
+  }
+}
