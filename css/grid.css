@@ -18,6 +18,12 @@
 .elementos {
     margin-top: 19px;
 }
+.boletin .btn {
+    padding: 6px 15px;
+}
+.contacto h2{
+  font-size: 18px;
+}
 .sec-2 img{
   margin: 0 auto;
 height: none;

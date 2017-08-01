@@ -313,18 +313,70 @@ padding-bottom: 3em;
     color: #3a2b3a !important;
 }
 .texto-blog p{
-  color: #6b5e72; 
+  color: #6b5e72;
+}
+.contacto ul{
+  padding: 0px;
+}
+.contacto ul li{
+  list-style: none;
+  margin-bottom: 30px;
+}
+.contacto ul li a{
+  color: #3a2b3a;
 }
 
+.boletin{
+  background: #c8d5d5;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.boletin img{
+      margin-top: 14px;
+      margin: 0 auto;
+}
+.boletin .form-control{
+  text-align: center;
+}
+.f-contacto{
+  margin-bottom: 40px;
+}
+.f-contacto .form-control {
+    background-color: #f2f2f2;
+    background-image: none;
+    border: 0px solid #f2f2f2;
+}
+
+.form-control-2::placeholder { color: #8f809b; }
+.form-control-2::placeholder { color: #8f809b; }
+.form-control-2:-ms-input-placeholder { color: #8f809b; } /* IE 10+ */
+.form-control-2::-webkit-input-placeholder { color: #8f809b; } /* WebKit */
+.form-control-2::-moz-placeholder { color: #8f809b; } /* Firefox 19+ */
+
+.f-contacto .btn {
+    padding: 10px 64px;
+    border-radius: 0px;
+}
+.f-contacto .btn-primary {
+    color: #6b5e72;
+    background-color: transparent;
+    border-color: #c8d5d5;
+}
+.boletin .btn-default {
+    color: #6b5e72;
+}
+.boletin .btn {
+    display: inline-block;
+    padding: 6px 29px;
+        border-radius: 0px;
+  }
 
 
-
-
-
-
-
-
-
+.form-control-3::placeholder { color: #6b5e72; }
+.form-control-3::placeholder { color: #6b5e72; }
+.form-control-3:-ms-input-placeholder { color: #6b5e72; } /* IE 10+ */
+.form-control-3::-webkit-input-placeholder { color: #6b5e72; } /* WebKit */
+.form-control-3::-moz-placeholder { color: #6b5e72; } /* Firefox 19+ */
 
 
 
