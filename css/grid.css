@@ -1,8 +1,22 @@
 
 @media screen and (min-width: 300px) and (max-width: 763px) {
-
+  .q-espc{
+      padding-right: 0px;
+      padding-left: 0px;
+  }
+.img-producto{
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.t-producto-ind{
+    padding-right: 5px;
+    padding-left: 5px;
+}
 .mm {
   padding: 0px;
+}
+.elementos {
+    margin-top: 19px;
 }
 .sec-2 img{
   margin: 0 auto;
@@ -252,6 +266,9 @@ min-width: 82px;
 }
 
 @media screen and (min-width: 1601px) {
+  .noticias p {
+      font-size: 11px;
+  }
   .cat-1{
       padding-top: 5em;
   padding-bottom: 5em;
@@ -329,11 +346,7 @@ min-width: 82px;
 
 }
 
-@media screen and (min-width: 1024px){
-  body{
-    overflow-y:hidden;
-  }
-}
+
 
 @media screen and (min-width: 1350px) and (max-width: 1500px) {
   .lg-2 video{

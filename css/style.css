@@ -191,6 +191,96 @@ padding-bottom: 3em;
 .barra {
     overflow: auto;
 }
+.t-banner img{
+  width: 100%;
+}
+.img-producto img{
+  width: 100%;
+}
+.elementos{
+  margin-top: 25px;
+}
+.elemento-1 img{
+  float: right;
+}
+.elemento-2 img{
+  margin: 0 auto;
+}
+.elemento-3 img{
+}
+.t-producto-ind{
+  margin-bottom: 50px;
+}
+.menu-3{
+  background: #ededf0;
+  height: 100%;
+  position: fixed;
+  left: 84%;
+  padding-top: 15px;
+}
+.menu-3 .pri ul{
+      list-style: none;
+      padding: 0px;
+      margin: 0px;
+}
+.menu-3 .pri li{
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.menu-3 .pri li a{
+  color: #8f809b;
+}
+.menu-3 h5{
+  color: #3a2b3a;
+}
+.menu-3 .pri li a:hover{
+  transition: 0.1s;
+    color: #3a2b3a !important;
+}
+.noticias{
+    bottom: 0;
+    position: absolute;
+    width: 90%;
+}
+.noticias img{
+  width: 60px;
+}
+.noticias p {
+    font-size: 9px;
+}
+.niveles li{
+  width: 25px;
+  height: 25px;
+}
+.niveles ul{
+  padding: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+.niveles li{
+  display: inline-block;
+  margin-right: -5px;
+}
+.linea-morada hr{
+  border-bottom: 1px solid #91829d;
+}
+.linea-morada{
+      margin-top: -35px;
+}
+.separacion-producto{
+  border: 2px solid #91829d;
+}
+
+
+
+
+
+
+
+
+
 
 
 
