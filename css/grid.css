@@ -4,6 +4,9 @@
       padding-right: 0px;
       padding-left: 0px;
   }
+  .subir-galeria{
+        margin-top: 0%;
+  }
 .img-producto{
   padding-right: 5px;
   padding-left: 5px;
@@ -121,6 +124,9 @@ min-width: 82px;
   }
 }
 @media screen and (min-width: 764px) and (max-width: 1023px) {
+  .subir-galeria{
+        margin-top: 0%;
+  }
   .cat-1-xs{
     background: url(../img/categoria-1.png);
       background-repeat: no-repeat;
@@ -172,6 +178,12 @@ min-width: 82px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1250px) {
+  .subir-galeria  h1{
+    font-size: 25px;
+  }
+  .subir-galeria  h2{
+    font-size: 20px;
+  }
   .logo{
       max-width: 130px;
       margin: 0 auto;
@@ -358,4 +370,7 @@ min-width: 82px;
   .lg-2 video{
       width: 120%;
   }
+  .subir-galeria hr {
+    width: 55%;
+}
 }

@@ -380,6 +380,48 @@ padding-bottom: 3em;
 
 
 
+.galeria .col-md-4, .galeria .col-sm-6{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.galeria img{
+  width: 100%;
+}
+.subir-galeria hr {
+     margin-top: 0px;
+    margin-bottom: 0px;
+    border-top: 5px solid #c8d5d5;
+    width: 40%;
+}
+.subir-galeria  h2, .subir-galeria h4{
+  color: #c8d5d5;
+  margin-top: 10px;
+}
+.subir-galeria  h1, .subir-galeria h3{
+  color: #6b5e72;
+}
+.subir-galeria{
+      margin-top: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
