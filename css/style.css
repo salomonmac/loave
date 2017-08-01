@@ -272,7 +272,49 @@ padding-bottom: 3em;
 .separacion-producto{
   border: 2px solid #91829d;
 }
+.portada-blog img{
+  width: 100%;
+}
+.texto-blog .btn {
+    padding: 17px 70px;
+    border-radius: 0px;
+}
+.texto-blog .btn-primary {
+    color: #6b5e72;
+    background-color: transparent;
+    border-color: #c8d5d5;
+}
+.separacion-blog hr{
+  border-top: 5px solid #c8d5d5;
+}
 
+
+
+
+.menu-3 .tag ul{
+      list-style: none;
+      padding: 0px;
+      margin: 0px;
+}
+.menu-3 .tag li{
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.menu-3 .tag li a{
+  color: #8f809b;
+}
+.menu-3 h5{
+  color: #3a2b3a;
+}
+.menu-3 .tag li a:hover{
+  transition: 0.1s;
+    color: #3a2b3a !important;
+}
+.texto-blog p{
+  color: #6b5e72; 
+}
 
 
 
