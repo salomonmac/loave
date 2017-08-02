@@ -4,6 +4,12 @@
       padding-right: 0px;
       padding-left: 0px;
   }
+  .t-producto-lg h2 {
+font-size: 20px;
+  }
+  .t-producto-img{
+    margin-bottom: 20px;
+  }
   .subir-galeria{
         margin-top: 0%;
   }
