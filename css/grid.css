@@ -173,6 +173,11 @@ min-width: 82px;
     background-color: transparent;
     border-color: #cad7d7;
   }
+  .boletin .btn {
+    padding: 6px 20px;
+}
+
+
 
 
 }
@@ -373,4 +378,9 @@ min-width: 82px;
   .subir-galeria hr {
     width: 55%;
 }
+}
+@media screen and (min-width: 1024px) {
+.p-relacionados .col-md-2 {
+    width: 20%;
+  }
 }

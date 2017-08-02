@@ -404,11 +404,58 @@ padding-bottom: 3em;
 .subir-galeria{
       margin-top: 25%;
 }
+.niveles-selec li{
+  width: 25px;
+  height: 25px;
+}
+.niveles-selec ul{
+  padding: 0px;
+  margin-bottom: 0px;
+}
+.niveles-selec li{
+  display: inline-block;
+  margin-right: -5px;
+}
+
+.p-relacionados h6{
+  font-size: 10px;
+}
+
+.p-relacionados hr{
+      border-top: 1.5px solid #c8d5d5;
+}
+
+.t-producto-lg hr{
+    margin: 5px;
+}
+.t-producto-lg  h2{
+  margin: 0px;
+}
+.t-producto-lg ul{
+  list-style: none;
+  padding: 0px;
+}
+.t-producto-lg ul li{
+  margin-bottom: 5px;
+  color: #8f809b;
+}
+.t-producto-lg .form-inline .form-control {
+    display: inline-block;
+    width: 45px;
+    vertical-align: middle;
+}
+.boletin-1{
+  margin-top: 50px;
+}
+
+.t-producto-lg hr{
+      border-top: 3px solid #c8d5d5;
+}
 
 
-
-
-
+.t-producto-lg .form-control {
+    border: 2px solid #8f809b;
+  }
 
 
 
